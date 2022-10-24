@@ -7,4 +7,5 @@ I am a fourth-year computer science student at The University of Queensland. I h
 
 - 🔭 I'm currently doing my Honours degree at Universty of Queensland.
 - 🌱 I'm currently learning on topics related to NLP and Speech.
+- 🤗 You can find my NLP and Speech models on [huggingface](https://huggingface.co/StevenLimcorn)
 - 💬 Feel free to get in touch through my email or my social media accounts 😁.
