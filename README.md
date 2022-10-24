@@ -5,6 +5,6 @@
 
 I am a fourth-year computer science student at The University of Queensland. I have a huge passion in deep learning especially NLP and Computer Vision.
 
-- 🔭 I am currently working part-time as a Machine Learning Engineer @Bookbot. 
-- 🌱 I’m currently learning deep learning on NLP and Speech related research.
+- 🔭 I'm currently doing my Honours Degree at Universty of Queensland.
+- 🌱 I'm learning on topics related to NLP and Speech.
 - 💬 You can get in touch with me through my email or my social media accounts.
