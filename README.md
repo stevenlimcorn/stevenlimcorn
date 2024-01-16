@@ -4,9 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-stevenlimcorn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stevenlimcorn@gmail.com)](mailto:stevenlimcorn@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Steven%20Limcorn-yellow)](https://huggingface.co/StevenLimcorn)
 
-I am a fourth-year computer science student at The University of Queensland. I have a huge passion in deep learning especially on topics related to NLP and Computer Vision.
+I am a University of Queensland computer science graduate who has a huge passion for deep learning specifically topics related to NLP and Computer Vision.
 
-- 🔭 I'm currently doing my Honours degree at Universty of Queensland.
 - 🌱 I'm currently learning on topics related to NLP and Speech.
 - 🤗 You can find my NLP and Speech models on [huggingface](https://huggingface.co/StevenLimcorn)
-- 💬 Feel free to get in touch through my email or my social media accounts 😁.
+- 💬 Feel free to contact me through my email or social media accounts 😁.
