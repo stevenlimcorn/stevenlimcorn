@@ -6,6 +6,7 @@
 
 I am a University of Queensland computer science graduate who has a huge passion for deep learning specifically topics related to NLP and Computer Vision.
 
-- 🌱 I'm currently learning on topics related to NLP and Speech.
+- 🧑‍💻 I'm currently as a graduate machine learning engineer at [Canva](https://www.canva.com/)
+- 🔬 Working alongside members of [LazarusNLP](https://lazarusnlp.github.io/) to build an Indonesian NLP community
 - 🤗 You can find my NLP and Speech models on [huggingface](https://huggingface.co/StevenLimcorn)
 - 💬 Feel free to contact me through my email or social media accounts 😁.
